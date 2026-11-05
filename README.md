@@ -64,3 +64,5 @@ Adya Shreya
 ## Disclaimer
 
 Cellfie! is an educational project. Immune-cell identity results are intended for entertainment and scientific engagement rather than clinical or psychological interpretation.
+## Play the game using the link
+https://adyashreya.shinyapps.io/cellfie-immune-quiz/
